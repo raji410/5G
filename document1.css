@@ -111,7 +111,7 @@ footer{
 }
 @media only screen and (max-width: 650px) {
     #aside{
-        width:12vw;
+        width:13vw;
         font-size:15px;
     }
     #aside a {
@@ -119,7 +119,7 @@ footer{
         line-height: 2vh;
     }
     body{
-    margin-left: 13vw;
+    margin-left: 14vw;
     }
     img{
         width:250px;
@@ -128,16 +128,16 @@ footer{
         margin-top: 5vh;
     }
     #intro{
-        height:120vh;
+        height:140vh;
     }
     #sec1,#sec2,#sec4,#sec5{
-        height:70vh;
+        height:90vh;
     }
     #sec3{
-        height:100vh;
+        height:120vh;
     }
     #sec6{
-        height: 200vh;
+        height: 220vh;
     }
 
 }
