@@ -128,16 +128,16 @@ footer{
         margin-top: 10vh;
     }
     #intro{
-        height:100vh;
+        height:120vh;
     }
     #sec1,#sec2,#sec4,#sec5{
         height:70vh;
     }
     #sec3{
-        height:90vh;
+        height:100vh;
     }
     #sec6{
-        height: 190vh;
+        height: 200vh;
     }
 
 }
